@@ -1,0 +1,6 @@
+.bg_img_1{
+	background-image:url(../img/dog.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+}
+
